@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-This is ewadme te editor, what a bull shit.
+This is read me editor, what a bull shit.
